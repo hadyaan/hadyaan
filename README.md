@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Faris 👋</h1>
+<h1 align="center">Hi, I'm Faris👋</h1>
 
+<h1 align="center">Learning doesn't end with school — it ends with life itself.</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Prompt Engineering GIF"/>
+</p>
 
 I'm a final-year Informatics student at Gunadarma University who’s passionate about mobile development — especially with **Flutter** and **Dart**. 
 
@@ -38,7 +43,6 @@ To become a skilled Flutter developer and build impactful, user-friendly mobile 
 
 
 
-> "Learning doesn't end with school — it ends with life itself."
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=farismuthihadyan&style=flat-square&color=blue)
 
